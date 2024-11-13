@@ -98,7 +98,3 @@ To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a 
 
 Oracle VM VirtualBox has been successfully installed on the system, and the user can now create and run virtual machines using different operating systems.
 
-
-## Result: 
-
-Oracle VM VirtualBox has been successfully installed on the system, and the user can now create and run virtual machines using different operating systems.
